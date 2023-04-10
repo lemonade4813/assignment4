@@ -1,4 +1,4 @@
-### - DB 정보(3번 과제와 동일)
+### 1) DB 정보(3번 과제와 동일)
 
 DB 경로 : database-1.cgsqdm8ubkh3.ap-northeast-2.rds.amazonaws.com
 
@@ -13,7 +13,7 @@ password : password
 ![image](https://user-images.githubusercontent.com/103189961/230875491-2864a115-f0b7-41b3-901a-6a8844eaf6fd.png)
 
 
-### - 사전 과정
+### 2) 사전 과정
 
 (1) first_half 테이블 및 데이터 생성
 
@@ -27,7 +27,7 @@ password : password
 
 ![image](https://user-images.githubusercontent.com/103189961/230882784-bfaef59d-4f8d-4d14-a8ec-b1f4df7d510e.png)
 
-### - 문제
+### 3) 문제
 
 7월 아이스크림 총 주문량과 상반기의 아이스크림 총 주문량을 더한 값이 큰
 순서대로 상위 3 개의 맛을 조회하는 SQL 문을 작성해주세요.
